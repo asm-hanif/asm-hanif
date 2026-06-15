@@ -41,8 +41,11 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=EasySheba+1" />
-  <img src="https://via.placeholder.com/400x220?text=EasySheba+2" />
+  <img src="media/easysheba1.png/400x220?text=EasySheba+1" />
+  <img src="media/easysheba2.png/400x220?text=EasySheba+2" />
+  <img src="media/easysheba3.png/400x220?text=EasySheba+2" />
+  <img src="media/easysheba4.png/400x220?text=EasySheba+2" />
+  <img src="media/easysheba5.png/400x220?text=EasySheba+2" />
 </p>
 
 
