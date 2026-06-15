@@ -95,7 +95,7 @@
 
 📸 Screenshots:
 
-<p align="center"> <img src="media/mm.jpeg" width="600"/>
+<p align="center"> <img src="media/mm.jpeg" width="400"/>
 
 📊 GitHub Stats
 
