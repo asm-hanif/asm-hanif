@@ -55,8 +55,8 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/kajlagbe1.jpeg" width="250"/>
-  <img src="media/kajlagbe2.jpeg" width="250"/>
+  <img src="media/kajlagbe1.jpeg" width="250",height="400"/>
+  <img src="media/kajlagbe2.jpeg" width="250",height="400"/>
 </p>
 
 
