@@ -55,8 +55,8 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/kajlagbe1.jpeg" width="280",height="350"/>
-  <img src="media/kajlagbe2.jpeg" width="280",height="350"/>
+  <img src="media/kajlagbe1.jpeg" width="200"/>
+  <img src="media/kajlagbe2.jpeg" width="200"/>
 </p>
 
 
@@ -80,8 +80,8 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/nagarfix1.jpeg" width="280",height="350"/>
-  <img src="media/nagarfix2.jpeg" width="280",height="350"/>
+  <img src="media/nagarfix1.jpeg" width="200"/>
+  <img src="media/nagarfix2.jpeg" width="200"/>
 </p>
 
 
