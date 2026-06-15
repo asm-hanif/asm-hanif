@@ -97,7 +97,7 @@
 
 <p align="center"> 
   <img src="media/mm.jpeg" width="400"/>
-  <img src="media/mm2.jpeg" width="400"/>
+  <img src="media/mm2.jpeg" width="200"/>
 </p> 
 
 📊 GitHub Stats
