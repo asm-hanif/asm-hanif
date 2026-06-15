@@ -41,7 +41,7 @@
   <img src="media/easysheba1.png" width="400"/>
   <img src="media/easysheba2.png" width="400"/>
   <img src="media/easysheba3.png" width="400"/>
-  <img src="media/easysheba5.png" width="400"/>
+  <img src="media/easysheba4.png" width="400"/>
 </p>
 
 
@@ -68,7 +68,7 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/cns.png" width="400"/>
+  <img src="media/cns.png" width="600"/>
 </p>
 
 
@@ -80,8 +80,8 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/nagarfix1.jpeg" width="400"/>
-  <img src="media/nagarfix2.jpeg" width="400"/>
+  <img src="media/nagarfix1.jpeg" width="280",height="350"/>
+  <img src="media/nagarfix2.jpeg" width="280",height="350"/>
 </p>
 
 
