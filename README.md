@@ -85,6 +85,18 @@
 </p>
 
 
+🏠 Smart Home System – ESP32 IoT Project
+
+✔ IoT-based smart automation system using ESP32 microcontroller
+✔ Remote control of home appliances via mobile/web interface
+✔ Real-time device status monitoring
+✔ WiFi-enabled communication between hardware and app/system
+✔ Focus on low-cost, scalable smart home automation
+
+📸 Screenshots:
+
+<p align="center"> <img src="media/mm.jpeg" width="600"/>
+
 📊 GitHub Stats
 
 <p align="center">
