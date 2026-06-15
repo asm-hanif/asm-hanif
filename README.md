@@ -10,14 +10,12 @@
 🔥 Building Scalable Web & Mobile Solutions
 </p>
 
-
 🚀 About Me
 
-🎓 CSE Undergraduate with strong problem-solving skills
-💡 Passionate about full-stack development and mobile apps
-📱 Specialized in Jetpack Compose & modern UI development
-🌐 Experienced in ASP.NET Core & backend systems
-🚀 Focused on building scalable and real-world applications
+🎓 CSE Undergraduate passionate about real-world problem solving
+💡 Full-stack & mobile app developer
+📱 Specialized in Jetpack Compose
+🌐 Backend experience with ASP.NET Core
 
 
 🧰 Tech Stack
@@ -32,7 +30,6 @@
 
 🏥 EasySheba – Healthcare Management System
 
-📌 Features:
 ✔ Appointment Booking
 ✔ Medical Test Scheduling
 ✔ Bed Management
@@ -41,17 +38,15 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="media/easysheba1.png/400x220?text=EasySheba+1" />
-  <img src="media/easysheba2.png/400x220?text=EasySheba+2" />
-  <img src="media/easysheba3.png/400x220?text=EasySheba+2" />
-  <img src="media/easysheba4.png/400x220?text=EasySheba+2" />
-  <img src="media/easysheba5.png/400x220?text=EasySheba+2" />
+  <img src="media/easysheba1.png" width="400"/>
+  <img src="media/easysheba2.png" width="400"/>
+  <img src="media/easysheba3.png" width="400"/>
+  <img src="media/easysheba5.png" width="400"/>
 </p>
 
 
 🛠️ KajLagbe – Service Marketplace App
 
-📌 Features:
 ✔ Worker Hiring System
 ✔ Firebase Authentication
 ✔ Real-time Chat
@@ -60,36 +55,33 @@
 📸 Screenshots:
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=KajLagbe+1" />
-  <img src="https://via.placeholder.com/400x220?text=KajLagbe+2" />
+  <img src="media/kajlagbe1.png" width="250"/>
+  <img src="media/kajlagbe2.png" width="250"/>
 </p>
 
 
 🌐 Campus Network System
 
-📌 Features:
 ✔ Network Simulation
 ✔ Protocol Demonstration
-✔ Educational Tool
 
 📸 Screenshots:
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=Network+1" />
+  <img src="media/cns.png" width="400"/>
 </p>
 
 
 🏙️ NagarFix – Smart City Service Platform
 
-📌 Features:
 ✔ Issue Reporting System
-✔ Citizen-Service Interaction
 ✔ Real-time Tracking
 
 📸 Screenshots:
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=NagarFix+1" />
+  <img src="media/nagarfix1.png" width="400"/>
+  <img src="media/nagarfix2.png" width="400"/>
 </p>
 
 
@@ -99,18 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=tokyonight" height="160"/>
 </p>
-
-
-📈 What I’m Currently Doing
-
-🔹 Building scalable backend systems
-🔹 Improving system design skills
-🔹 Developing modern Android applications
-
-
-🎯 Career Goal
-
-To become a highly skilled Software Engineer capable of designing and building scalable, impactful systems used by real users.
 
 
 🌐 Connect With Me
@@ -125,13 +105,6 @@ To become a highly skilled Software Engineer capable of designing and building s
 </p>
 
 
-🏅 Achievements & Highlights
-
-✔ Built multiple full-stack & mobile applications
-✔ Experience with real-world project architecture
-✔ Strong foundation in backend + UI development
-
-
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ⭐ If you like my work, give a star!
 </p>
