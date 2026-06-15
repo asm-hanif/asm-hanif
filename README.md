@@ -21,7 +21,7 @@
 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,kotlin,cs,nodejs,dotnet,html,css,bootstrap,firebase,postgres,git,github,vscode,androidstudio,vs" />
+<img src="https://skillicons.dev/icons?i=js,kotlin,cs,nodejs,dotnet,html,css,bootstrap,firebase,postgres,git,github,vscode,visualstudio,androidstudio," />
 </p>
 
 
