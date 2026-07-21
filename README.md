@@ -6,26 +6,26 @@
 <h3 align="center">💻 Software Developer | 📱 Mobile App Developer | 🌐 Web Developer</h3>
 
 <p align="center">
-🚀 Turning Ideas into Real Applications <br>
-🔥 Building Scalable Web & Mobile Solutions
+ Turning Ideas into Real Applications <br>
+ Building Scalable Web & Mobile Solutions
 </p>
 
-🚀 About Me
+ About Me
 
-🎓 CSE Undergraduate passionate about real-world problem solving
-💡 Full-stack & mobile app developer
-📱 Specialized in Jetpack Compose
-🌐 Backend experience with ASP.NET Core
+ CSE Undergraduate passionate about real-world problem solving
+ Full-stack & mobile app developer
+ Specialized in Jetpack Compose
+ Backend experience with ASP.NET Core
 
 
-🧰 Tech Stack
+ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,kotlin,cs,nodejs,dotnet,html,css,bootstrap,firebase,postgres,git,github,vscode,visualstudio,androidstudio," />
 </p>
 
 
-🏆 Featured Projects
+ Featured Projects
 
 
 🏥 EasySheba – Healthcare Management System
@@ -35,7 +35,7 @@
 ✔ Bed Management
 ✔ Role-Based Dashboard
 
-📸 Screenshots:
+ Screenshots:
 
 <p align="center">
   <img src="media/easysheba1.png" width="400"/>
@@ -52,7 +52,7 @@
 ✔ Real-time Chat
 ✔ Review System
 
-📸 Screenshots:
+ Screenshots:
 
 <p align="center">
   <img src="media/kajlagbe1.jpeg" width="200"/>
@@ -65,7 +65,7 @@
 ✔ Network Simulation
 ✔ Protocol Demonstration
 
-📸 Screenshots:
+ Screenshots:
 
 <p align="center">
   <img src="media/cns.png" width="600"/>
@@ -77,7 +77,7 @@
 ✔ Issue Reporting System
 ✔ Real-time Tracking
 
-📸 Screenshots:
+ Screenshots:
 
 <p align="center">
   <img src="media/nagarfix1.jpeg" width="200"/>
@@ -93,7 +93,7 @@
 ✔ WiFi-enabled communication between hardware and app/system
 ✔ Focus on low-cost, scalable smart home automation
 
-📸 Screenshots:
+ Screenshots:
 
 <p align="center"> 
   <img src="media/mm.jpeg" width="400"/>
