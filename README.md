@@ -1,114 +1,118 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abu+Sayed+Muhammed+Hanif;Software+Developer;Android+%7C+Web+%7C+Full+Stack;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abu+Sayed+Muhammed+Hanif;Software+Developer+%7C+ML+Enthusiast;Android+%7C+Web+%7C+Full-Stack;Building+Scalable+Real-World+Solutions" />
 </p>
-
-
-<h3 align="center">💻 Software Developer | 📱 Mobile App Developer | 🌐 Web Developer</h3>
 
 <p align="center">
- Turning Ideas into Real Applications <br>
- Building Scalable Web & Mobile Solutions
+  <strong>💻 Software Developer · 📱 Mobile App Developer · 🌐 Web Developer</strong><br/>
+  <em>Turning ideas into impact – one line of code at a time.</em>
 </p>
 
- About Me
+---
 
- CSE Undergraduate passionate about real-world problem solving
- Full-stack & mobile app developer
- Specialized in Jetpack Compose
- Backend experience with ASP.NET Core
+### 👨‍💻 About Me
 
+- 🎓 Undergraduate in **Computer Science & Engineering** – Premier University, Chittagong (Graduating 2027)
+- 🧠 Passionate about **Machine Learning**, **IoT**, and solving real-world problems
+- ⚙️ Full‑stack & mobile developer with strong backend expertise in **ASP.NET Core** and **Node.js**
+- 📱 Specialized in **Jetpack Compose** for modern Android development
+- 🌱 Currently exploring **AWS AI/ML** services and **cloud-native architectures**
 
- Tech Stack
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,kotlin,cs,nodejs,dotnet,html,css,bootstrap,firebase,postgres,git,github,vscode,visualstudio,androidstudio," />
+  <img src="https://skillicons.dev/icons?i=js,kotlin,cs,nodejs,dotnet,html,css,bootstrap,firebase,postgres,git,github,vscode,visualstudio,androidstudio" />
 </p>
 
+---
 
- Featured Projects
+### 🚀 Featured Projects
 
+#### 🏥 EasySheba – Healthcare Management System
+A comprehensive medical service platform that connects patients with doctors, hospitals, and diagnostic services across Bangladesh.
 
-🏥 EasySheba – Healthcare Management System
-
-✔ Appointment Booking
-✔ Medical Test Scheduling
-✔ Bed Management
-✔ Role-Based Dashboard
-
- Screenshots:
+- ✅ Appointment booking & management  
+- ✅ Medical test scheduling & bed reservation  
+- ✅ Role‑based dashboards (Patient, Hospital Admin, Super Admin)  
+- ✅ Built with ASP.NET Core MVC, Entity Framework, MS SQL, Bootstrap, jQuery, Google Maps API  
 
 <p align="center">
-  <img src="media/easysheba1.png" width="400"/>
-  <img src="media/easysheba2.png" width="400"/>
-  <img src="media/easysheba3.png" width="400"/>
-  <img src="media/easysheba4.png" width="400"/>
+  <img src="media/easysheba1.png" width="45%" />
+  <img src="media/easysheba2.png" width="45%" />
+  <br/>
+  <img src="media/easysheba3.png" width="45%" />
+  <img src="media/easysheba4.png" width="45%" />
 </p>
 
+---
 
-🛠️ KajLagbe – Service Marketplace App
+#### 🛠️ KajLagbe – Service Marketplace App
+A local job marketplace where service providers and seekers connect in real time.
 
-✔ Worker Hiring System
-✔ Firebase Authentication
-✔ Real-time Chat
-✔ Review System
-
- Screenshots:
+- 🔥 Firebase Authentication & real‑time database  
+- 💬 Real‑time chat between users  
+- ⭐ Rating & review system  
+- Built with **Kotlin** and **Firebase**
 
 <p align="center">
-  <img src="media/kajlagbe1.jpeg" width="200"/>
-  <img src="media/kajlagbe2.jpeg" width="200"/>
+  <img src="media/kajlagbe1.jpeg" width="30%" />
+  <img src="media/kajlagbe2.jpeg" width="30%" />
 </p>
 
+---
 
-🌐 Campus Network System
+#### 🌐 Campus Network System
+Simulated a complete university network using Cisco tools to demonstrate routing, switching, and security protocols.
 
-✔ Network Simulation
-✔ Protocol Demonstration
-
- Screenshots:
+- ✅ VLAN, ACL, MCU, and access switch configurations  
+- ✅ Email server & IoT device integration  
+- ✅ Serial chain connections and cloud integration  
 
 <p align="center">
-  <img src="media/cns.png" width="600"/>
+  <img src="media/cns.png" width="70%" />
 </p>
 
+---
 
-🏙️ NagarFix – Smart City Service Platform
+#### 🏙️ NagarFix – Smart City Service Platform
+A citizen‑centric app that allows users to report urban problems (e.g., road damage, waste) and track their resolution.
 
-✔ Issue Reporting System
-✔ Real-time Tracking
-
- Screenshots:
+- 📍 Issue reporting with location tagging  
+- 📊 Real‑time tracking for city corporation  
+- Built with **Kotlin** and **Firebase**
 
 <p align="center">
-  <img src="media/nagarfix1.jpeg" width="200"/>
-  <img src="media/nagarfix2.jpeg" width="200"/>
+  <img src="media/nagarfix1.jpeg" width="30%" />
+  <img src="media/nagarfix2.jpeg" width="30%" />
 </p>
 
+---
 
-🏠 Smart Home System – ESP32 IoT Project
+#### 🏠 Smart Home System – ESP32 IoT Project
+An affordable, scalable home automation system that controls appliances remotely via Wi‑Fi.
 
-✔ IoT-based smart automation system using ESP32 microcontroller
-✔ Remote control of home appliances via mobile/web interface
-✔ Real-time device status monitoring
-✔ WiFi-enabled communication between hardware and app/system
-✔ Focus on low-cost, scalable smart home automation
-
- Screenshots:
-
-<p align="center"> 
-  <img src="media/mm.jpeg" width="400"/>
-  <img src="media/mm2.jpeg" width="200"/>
-</p> 
-
-📊 GitHub Stats
+- 🔌 ESP32 microcontroller with IR sensors, servo motors, rain sensor  
+- 📱 Controlled via the Blink app (or custom web interface)  
+- ⚡ Real‑time device status monitoring  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=tokyonight" height="160"/>
+  <img src="media/mm.jpeg" width="45%" />
+  <img src="media/mm2.jpeg" width="30%" />
 </p>
 
+---
 
-🌐 Connect With Me
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/abu-sayed-muhammed-hanif-15b689374/">
@@ -117,9 +121,13 @@
   <a href="mailto:abusayed1952hanif@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://github.com/asm-hanif">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
+---
 
 <p align="center">
-  ⭐ If you like my work, give a star!
+  ⭐ If you find my work helpful, feel free to star a repo or connect – I'd love to collaborate!
 </p>
