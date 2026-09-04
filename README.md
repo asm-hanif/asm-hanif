@@ -30,19 +30,19 @@
 
 ---
 
-# 🧠 About Me
+🧠 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 👋 Hey, I'm Hanif
+👋 Hey, I'm Hanif
 
 I'm an undergraduate **Computer Science & Engineering** student passionate about transforming ideas into practical software.
 
 I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
 
-### 🎯 Currently Focused On
+ 🎯 Currently Focused On
 
 * 🤖 Machine Learning & AI
 * ☁️ AWS AI/ML & Cloud Architecture
@@ -55,7 +55,7 @@ I enjoy working across the entire development stack — from designing interface
 
 <td width="45%" valign="top">
 
-### ⚡ Quick Profile
+⚡ Quick Profile
 
 ```text
 🎓 Education
@@ -90,29 +90,29 @@ Cloud-Native Architecture
 
 ---
 
-# 🛠️ Tech Arsenal
+🛠️ Tech Arsenal
 
 <p align="center">
 
-### 💻 Languages
+ 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,kotlin,cs,python,html,css" />
 
 <br><br>
 
-### 🌐 Web & Backend
+🌐 Web & Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,bootstrap" />
 
 <br><br>
 
-### 📱 Mobile & Cloud
+ 📱 Mobile & Cloud
 
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,aws" />
 
 <br><br>
 
-### 🗄️ Database & Tools
+ 🗄️ Database & Tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio" />
 
@@ -122,37 +122,87 @@ Cloud-Native Architecture
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
-## 🏠 FlatMate
+🏠 FlatMate
 
-### Property Marketplace & Rental Platform
+AI-Powered Property Marketplace & Rental Platform
 
-> A Bangladesh-wide property marketplace that connects property owners with people looking to **buy or rent properties** through a single role-based platform.
+> A Bangladesh-wide property marketplace that connects property owners with people looking to buy or rent properties, enhanced with an AI assistant named Mira that helps owners estimate suitable property prices and helps seekers discover properties based on their requirements.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**✨ Key Features**
+✨ Key Features
 
-* 🏠 Property listing for sale, rent, or both
-* 🔍 Search & filter properties
+* 🏠 Property listing for **sale, rent, or both**
+* 🔍 Advanced property search & filtering
 * 📍 Property discovery across Bangladesh
 * 💰 Buy & rental property marketplace
-* 👤 Role-based Owner & User accounts
-* 📝 Owners can create & manage property listings
+* 👤 Role-based **Owner & Seeker** accounts
+* 📝 Owners can create & manage listings
 * ❤️ Save / favorite properties
 * 📩 Property request & inquiry system
+* 🖼️ Property image & media management
 * 📊 Role-based dashboards
 * 🔐 Secure authentication & authorization
-* 🖼️ Property image & media management
 * 📱 Responsive web interface
 
 </td>
-<td>
 
-**⚙️ Technology**
+<td width="50%" valign="top">
+
+🤖 Mira — AI Property Assistant
+
+Mira is the intelligent assistant built into FlatMate to make property decisions easier.
+
+For Owners
+
+* 💵 Estimates suitable property pricing
+* 🏠 Analyzes property specifications
+* 📊 Helps determine a competitive price
+* 🎯 Supports better listing decisions
+
+For Property Seekers
+
+* 🔎 Understands their requirements
+* 🏡 Finds suitable properties
+* 🎯 Matches preferences with available listings
+* 💡 Helps narrow down property choices
+
+</td>
+</tr>
+</table>
+
+<br>
+
+🧠 How Mira Works
+
+```text
+                    ┌───────────────────┐
+                    │       MIRA        │
+                    │  AI Property      │
+                    │     Assistant     │
+                    └─────────┬─────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               │                             │
+               ▼                             ▼
+        🏠 PROPERTY OWNER             🔍 PROPERTY SEEKER
+               │                             │
+      Property Specifications          Requirements
+               │                             │
+               ▼                             ▼
+        Price Estimation              Property Matching
+               │                             │
+               └──────────────┬──────────────┘
+                              ▼
+                    Better Property
+                       Decisions
+```
+
+⚙️ Technology
 
 ```text
 HTML5
@@ -164,11 +214,9 @@ PostgreSQL
 REST APIs
 Role-Based Access Control
 Session Authentication
+AI-Assisted Property Analysis
+AI Property Recommendation
 ```
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <!-- Add your FlatMate screenshots here -->
@@ -180,9 +228,10 @@ Session Authentication
 </p>
 
 
-## 🏥 EasySheba
 
-### Healthcare Management & Medical Service Platform
+🏥 EasySheba
+
+ Healthcare Management & Medical Service Platform
 
 > A comprehensive healthcare platform designed to connect patients with doctors, hospitals, diagnostic services, appointments and medical resources.
 
@@ -190,7 +239,7 @@ Session Authentication
 <tr>
 <td>
 
-**✨ Key Features**
+✨ Key Features
 
 * 🩺 Doctor appointment booking
 * 🧪 Medical test scheduling
@@ -204,7 +253,7 @@ Session Authentication
 </td>
 <td>
 
-**⚙️ Technology**
+⚙️ Technology
 
 ```text
 ASP.NET Core MVC
@@ -231,9 +280,9 @@ ASP.NET Identity
 
 ---
 
-## 🛠️ KajLagbe
+🛠️ KajLagbe
 
-### Local Service Marketplace
+Local Service Marketplace
 
 > A mobile marketplace connecting people who need services with local service providers.
 
@@ -241,7 +290,7 @@ ASP.NET Identity
 <tr>
 <td width="50%">
 
-### 🔥 Features
+🔥 Features
 
 * 🔐 Firebase Authentication
 * 💬 Real-time messaging
@@ -254,13 +303,13 @@ ASP.NET Identity
 
 <td width="50%">
 
-### 📱 Built With
+📱 Built With
 
 <img src="https://skillicons.dev/icons?i=kotlin,firebase" />
 
 <br><br>
 
-**Architecture**
+Architecture
 
 ```text
 Kotlin
@@ -281,17 +330,16 @@ Firebase Storage
 
 ---
 
-## 🌐 Campus Network System
+🌐 Campus Network System
 
-### University Network Simulation
+University Network Simulation
 
 > A complete simulated university network designed to demonstrate enterprise networking, routing, switching and security concepts.
 
 <table>
 <tr>
 <td>
-
-### 🔌 Networking
+🔌 Networking
 
 * VLAN configuration
 * ACL implementation
@@ -306,7 +354,7 @@ Firebase Storage
 
 <td>
 
-### 🧰 Tools
+🧰 Tools
 
 ```text
 Cisco Packet Tracer
@@ -329,14 +377,13 @@ Servers
 </p>
 
 ---
+🏙️ NagarFix
 
-## 🏙️ NagarFix
-
-### Smart City Service Platform
+Smart City Service Platform
 
 > A citizen-focused platform that allows people to report urban problems and track their resolution.
 
-### 🚧 Problem → Solution
+🚧 Problem → Solution
 
 ```text
 Citizen
@@ -354,7 +401,7 @@ Status Updates
 Citizen Tracking
 ```
 
-### ✨ Features
+✨ Features
 
 * 📍 Location-based issue reporting
 * 📸 Issue documentation
@@ -362,7 +409,7 @@ Citizen Tracking
 * 🔄 Real-time updates
 * 🏙️ Smart city management
 
-**Technology:** Kotlin • Firebase • Android
+Technology: Kotlin • Firebase • Android
 
 <p align="center">
   <img src="media/nagarfix1.jpeg" width="30%" />
@@ -371,9 +418,9 @@ Citizen Tracking
 
 ---
 
-## 🏠 Smart Home System
+🏠 Smart Home System
 
-### ESP32 IoT Automation Project
+ESP32 IoT Automation Project
 
 > An affordable and scalable IoT-based smart home system for remotely controlling household appliances.
 
@@ -381,7 +428,7 @@ Citizen Tracking
 <tr>
 <td>
 
-### 🔌 Hardware
+🔌 Hardware
 
 * ESP32
 * IR Sensors
@@ -393,7 +440,7 @@ Citizen Tracking
 
 <td>
 
-### ⚡ Capabilities
+⚡ Capabilities
 
 * Remote appliance control
 * Real-time device status
@@ -414,7 +461,7 @@ Citizen Tracking
 
 ---
 
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="180"/>
@@ -431,7 +478,7 @@ Citizen Tracking
 
 ---
 
-# 📈 Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
@@ -441,7 +488,7 @@ Citizen Tracking
 
 ---
 
-# 🧩 Development Philosophy
+🧩 Development Philosophy
 
 <p align="center">
 
@@ -449,9 +496,9 @@ Citizen Tracking
 <tr>
 <td align="center" width="25%">
 
-### 🎯
+🎯
 
-**Solve Problems**
+Solve Problems
 
 Build technology that has a real purpose.
 
@@ -459,9 +506,9 @@ Build technology that has a real purpose.
 
 <td align="center" width="25%">
 
-### ⚡
+⚡
 
-**Keep Learning**
+Keep Learning
 
 Always explore new technologies and ideas.
 
@@ -469,9 +516,9 @@ Always explore new technologies and ideas.
 
 <td align="center" width="25%">
 
-### 🧠
+🧠
 
-**Think Scalable**
+Think Scalable
 
 Design systems with growth in mind.
 
@@ -479,9 +526,9 @@ Design systems with growth in mind.
 
 <td align="center" width="25%">
 
-### 🚀
+🚀
 
-**Build & Ship**
+Build & Ship
 
 Turn concepts into working products.
 
@@ -493,7 +540,7 @@ Turn concepts into working products.
 
 ---
 
-# 🌱 Currently Exploring
+🌱 Currently Exploring
 
 <p align="center">
 
@@ -513,7 +560,7 @@ Turn concepts into working products.
 
 ---
 
-# 🤝 Let's Connect
+🤝 Let's Connect
 
 <p align="center">
 
@@ -537,9 +584,9 @@ Turn concepts into working products.
 
 <p align="center">
 
-### 💙 Thanks for visiting my profile!
+💙 Thanks for visiting my profile!
 
-**If you find something interesting here, consider ⭐ starring the repository.**
+If you find something interesting here, consider ⭐ starring the repository.
 
 <br>
 
