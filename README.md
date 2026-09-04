@@ -124,6 +124,62 @@ Cloud-Native Architecture
 
 # 🚀 Featured Projects
 
+## 🏠 FlatMate
+
+### Property Marketplace & Rental Platform
+
+> A Bangladesh-wide property marketplace that connects property owners with people looking to **buy or rent properties** through a single role-based platform.
+
+<table>
+<tr>
+<td>
+
+**✨ Key Features**
+
+* 🏠 Property listing for sale, rent, or both
+* 🔍 Search & filter properties
+* 📍 Property discovery across Bangladesh
+* 💰 Buy & rental property marketplace
+* 👤 Role-based Owner & User accounts
+* 📝 Owners can create & manage property listings
+* ❤️ Save / favorite properties
+* 📩 Property request & inquiry system
+* 📊 Role-based dashboards
+* 🔐 Secure authentication & authorization
+* 🖼️ Property image & media management
+* 📱 Responsive web interface
+
+</td>
+<td>
+
+**⚙️ Technology**
+
+```text
+HTML5
+CSS3
+JavaScript
+Node.js
+Express.js
+PostgreSQL
+REST APIs
+Role-Based Access Control
+Session Authentication
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <!-- Add your FlatMate screenshots here -->
+  <img src="media/flatmate1.png" width="45%" />
+  <img src="media/flatmate2.png" width="45%" />
+  <br><br>
+  <img src="media/flatmate3.png" width="45%" />
+  <img src="media/flatmate4.png" width="45%" />
+</p>
+
+
 ## 🏥 EasySheba
 
 ### Healthcare Management & Medical Service Platform
