@@ -1,98 +1,599 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Abu+Sayed+Muhammed+Hanif;Software+Developer+%7C+ML+Enthusiast;Android+%7C+Web+%7C+Full-Stack;Building+Scalable+Real-World+Solutions" />
+</p>
 
-<img src="assets/hero.svg" alt="Abu Sayed Muhammed Hanif, software developer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/asm-hanif">
+    <img src="https://img.shields.io/github/followers/asm-hanif?label=Followers&style=for-the-badge&color=00F7FF&labelColor=111827" />
+  </a>
+  <a href="https://github.com/asm-hanif?tab=repositories">
+    <img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=00F7FF&labelColor=111827" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+</p>
 
 <br>
 
-<a href="https://github.com/asm-hanif"><img src="https://img.shields.io/github/followers/asm-hanif?label=Followers&style=for-the-badge&color=7C5CFF&labelColor=0A0B1E" alt="Followers" /></a>
-<a href="https://github.com/asm-hanif?tab=repositories"><img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=2DE2C8&labelColor=0A0B1E" alt="Stars" /></a>
-<img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=FF7A6B&labelColor=0A0B1E&label=PROFILE+VIEWS" alt="Profile views" />
+<p align="center">
+  <strong>💻 Software Developer &nbsp;•&nbsp; 📱 Android Developer &nbsp;•&nbsp; 🌐 Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  <em>Building useful technology that solves real-world problems.</em>
+</p>
+
+<br>
+
+---
+
+🧠 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+👋 Hey, I'm Hanif
+
+I'm an undergraduate **Computer Science & Engineering** student passionate about transforming ideas into practical software.
+
+I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
+
+ 🎯 Currently Focused On
+
+* 🤖 Machine Learning & AI
+* ☁️ AWS AI/ML & Cloud Architecture
+* 📱 Modern Android Development
+* 🌐 Full-Stack Web Development
+* 🔌 IoT & Smart Systems
+* 🧩 Scalable Backend Architecture
+
+</td>
+
+<td width="45%" valign="top">
+
+⚡ Quick Profile
+
+```text
+🎓 Education
+CSE @ Premier University
+Graduating: 2027
+
+💻 Development
+Full-Stack + Android
+
+🧠 Interests
+AI • ML • IoT • Cloud
+
+⚙️ Backend
+ASP.NET Core • Node.js
+
+📱 Mobile
+Kotlin • Jetpack Compose
+
+🗄️ Database
+MS SQL • PostgreSQL • Firebase
+
+🌱 Learning
+AWS AI/ML
+Cloud-Native Architecture
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+🛠️ Tech Arsenal
+
+<p align="center">
+
+ 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,kotlin,cs,python,html,css" />
 
 <br><br>
 
-<img src="assets/h-about.svg" alt="About me" width="100%" />
-<img src="assets/about.svg" alt="About Hanif: undergraduate CSE student, full-stack and Android developer" width="100%" />
+🌐 Web & Backend
 
-<img src="assets/h-stack.svg" alt="Tech stack" width="100%" />
-<img src="assets/stack.svg" alt="Languages, web and backend, mobile and cloud, data and tools" width="100%" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,bootstrap" />
 
-<img src="assets/h-flatmate.svg" alt="Featured project" width="100%" />
+<br><br>
 
-<a href="https://github.com/asm-hanif?tab=repositories">
-  <!-- Replace the link above with your FlatMate repository or live site URL -->
-  <img src="assets/flatmate-hero.svg" alt="FlatMate: AI-powered property marketplace and rental platform for Bangladesh" width="100%" />
+ 📱 Mobile & Cloud
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,aws" />
+
+<br><br>
+
+ 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio" />
+
+</p>
+
+<br>
+
+---
+
+🚀 Featured Projects
+
+🏠 FlatMate
+
+AI-Powered Property Marketplace & Rental Platform
+
+> A Bangladesh-wide property marketplace that connects property owners with people looking to buy or rent properties, enhanced with an AI assistant named Mira that helps owners estimate suitable property prices and helps seekers discover properties based on their requirements.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+✨ Key Features
+
+* 🏠 Property listing for **sale, rent, or both**
+* 🔍 Advanced property search & filtering
+* 📍 Property discovery across Bangladesh
+* 💰 Buy & rental property marketplace
+* 👤 Role-based **Owner & Seeker** accounts
+* 📝 Owners can create & manage listings
+* ❤️ Save / favorite properties
+* 📩 Property request & inquiry system
+* 🖼️ Property image & media management
+* 📊 Role-based dashboards
+* 🔐 Secure authentication & authorization
+* 📱 Responsive web interface
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 Mira — AI Property Assistant
+
+Mira is the intelligent assistant built into FlatMate to make property decisions easier.
+
+For Owners
+
+* 💵 Estimates suitable property pricing
+* 🏠 Analyzes property specifications
+* 📊 Helps determine a competitive price
+* 🎯 Supports better listing decisions
+
+For Property Seekers
+
+* 🔎 Understands their requirements
+* 🏡 Finds suitable properties
+* 🎯 Matches preferences with available listings
+* 💡 Helps narrow down property choices
+
+</td>
+</tr>
+</table>
+
+<br>
+
+🧠 How Mira Works
+
+```text
+                    ┌───────────────────┐
+                    │       MIRA        │
+                    │  AI Property      │
+                    │     Assistant     │
+                    └─────────┬─────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               │                             │
+               ▼                             ▼
+        🏠 PROPERTY OWNER             🔍 PROPERTY SEEKER
+               │                             │
+      Property Specifications          Requirements
+               │                             │
+               ▼                             ▼
+        Price Estimation              Property Matching
+               │                             │
+               └──────────────┬──────────────┘
+                              ▼
+                    Better Property
+                       Decisions
+```
+
+⚙️ Technology
+
+```text
+HTML5
+CSS3
+JavaScript
+Node.js
+Express.js
+PostgreSQL
+REST APIs
+Role-Based Access Control
+Session Authentication
+AI-Assisted Property Analysis
+AI Property Recommendation
+```
+
+<p align="center">
+  <!-- Add your FlatMate screenshots here -->
+  <img src="media/flatmate1.png" width="45%" />
+  <img src="media/flatmate2.png" width="45%" />
+  <br><br>
+  <img src="media/flatmate3.png" width="45%" />
+  <img src="media/flatmate4.png" width="45%" />
+</p>
+
+
+
+🏥 EasySheba
+
+ Healthcare Management & Medical Service Platform
+
+> A comprehensive healthcare platform designed to connect patients with doctors, hospitals, diagnostic services, appointments and medical resources.
+
+<table>
+<tr>
+<td>
+
+✨ Key Features
+
+* 🩺 Doctor appointment booking
+* 🧪 Medical test scheduling
+* 🛏️ Bed reservation
+* 👨‍⚕️ Doctor management
+* 🏥 Hospital management
+* 🔐 Role-based authentication
+* 📊 Administrative dashboards
+* 📍 Google Maps integration
+
+</td>
+<td>
+
+⚙️ Technology
+
+```text
+ASP.NET Core MVC
+C#
+Entity Framework
+Microsoft SQL Server
+Bootstrap
+jQuery
+Google Maps API
+ASP.NET Identity
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="media/easysheba1.png" width="45%" />
+  <img src="media/easysheba2.png" width="45%" />
+  <br><br>
+  <img src="media/easysheba3.png" width="45%" />
+  <img src="media/easysheba4.png" width="45%" />
+</p>
+
+---
+
+🛠️ KajLagbe
+
+Local Service Marketplace
+
+> A mobile marketplace connecting people who need services with local service providers.
+
+<table>
+<tr>
+<td width="50%">
+
+🔥 Features
+
+* 🔐 Firebase Authentication
+* 💬 Real-time messaging
+* ⭐ Rating & review system
+* 👤 Service provider profiles
+* 📍 Local service discovery
+* ⚡ Real-time data synchronization
+
+</td>
+
+<td width="50%">
+
+📱 Built With
+
+<img src="https://skillicons.dev/icons?i=kotlin,firebase" />
+
+<br><br>
+
+Architecture
+
+```text
+Kotlin
+Jetpack Compose
+Firebase Auth
+Cloud Firestore
+Firebase Storage
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="media/kajlagbe1.jpeg" width="30%" />
+  <img src="media/kajlagbe2.jpeg" width="30%" />
+</p>
+
+---
+
+🌐 Campus Network System
+
+University Network Simulation
+
+> A complete simulated university network designed to demonstrate enterprise networking, routing, switching and security concepts.
+
+<table>
+<tr>
+<td>
+🔌 Networking
+
+* VLAN configuration
+* ACL implementation
+* Routing
+* Access switching
+* Serial connections
+* Email server
+* IoT integration
+* Cloud connectivity
+
+</td>
+
+<td>
+
+🧰 Tools
+
+```text
+Cisco Packet Tracer
+
+Routers
+Core Switches
+Access Switches
+VLANs
+ACLs
+IoT Devices
+Servers
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="media/cns.png" width="80%" />
+</p>
+
+---
+🏙️ NagarFix
+
+Smart City Service Platform
+
+> A citizen-focused platform that allows people to report urban problems and track their resolution.
+
+🚧 Problem → Solution
+
+```text
+Citizen
+   ↓
+Report Urban Issue
+   ↓
+Location Tagging
+   ↓
+City Corporation
+   ↓
+Issue Processing
+   ↓
+Status Updates
+   ↓
+Citizen Tracking
+```
+
+✨ Features
+
+* 📍 Location-based issue reporting
+* 📸 Issue documentation
+* 📊 Resolution tracking
+* 🔄 Real-time updates
+* 🏙️ Smart city management
+
+Technology: Kotlin • Firebase • Android
+
+<p align="center">
+  <img src="media/nagarfix1.jpeg" width="30%" />
+  <img src="media/nagarfix2.jpeg" width="30%" />
+</p>
+
+---
+
+🏠 Smart Home System
+
+ESP32 IoT Automation Project
+
+> An affordable and scalable IoT-based smart home system for remotely controlling household appliances.
+
+<table>
+<tr>
+<td>
+
+🔌 Hardware
+
+* ESP32
+* IR Sensors
+* Servo Motors
+* Rain Sensor
+* Wi-Fi connectivity
+
+</td>
+
+<td>
+
+⚡ Capabilities
+
+* Remote appliance control
+* Real-time device status
+* Automated actions
+* Wi-Fi communication
+* Smart monitoring
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="media/mm.jpeg" width="45%" />
+  <img src="media/mm2.jpeg" width="30%" />
+</p>
+
+<br>
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="180"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm-hanif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+</p>
+
+<br>
+
+---
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<br>
+
+---
+
+🧩 Development Philosophy
+
+<p align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🎯
+
+Solve Problems
+
+Build technology that has a real purpose.
+
+</td>
+
+<td align="center" width="25%">
+
+⚡
+
+Keep Learning
+
+Always explore new technologies and ideas.
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+Think Scalable
+
+Design systems with growth in mind.
+
+</td>
+
+<td align="center" width="25%">
+
+🚀
+
+Build & Ship
+
+Turn concepts into working products.
+
+</td>
+</tr>
+</table>
+
+</p>
+
+---
+
+🌱 Currently Exploring
+
+<p align="center">
+
+`🤖 Machine Learning`
+
+`☁️ AWS`
+
+`🧠 AI Systems`
+
+`🏗️ Cloud Architecture`
+
+`📱 Advanced Android`
+
+`🔌 IoT`
+
+</p>
+
+---
+
+🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abu-sayed-muhammed-hanif-15b689374/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
 </a>
-<img src="assets/flatmate-build.svg" alt="FlatMate technology and testing: 447 test cases across 8 suites" width="100%" />
-<img src="assets/mira.svg" alt="How Mira works: price estimates for owners, property matching for seekers" width="100%" />
 
-<img src="media/flatmate1.png" width="45%" alt="FlatMate screenshot 1" />
-<img src="media/flatmate2.png" width="45%" alt="FlatMate screenshot 2" />
-<br><br>
-<img src="media/flatmate3.png" width="45%" alt="FlatMate screenshot 3" />
-<img src="media/flatmate4.png" width="45%" alt="FlatMate screenshot 4" />
+<a href="mailto:abusayed1952hanif@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+</a>
 
-<br><br>
+<a href="https://github.com/asm-hanif">
+<img src="https://img.shields.io/badge/GitHub-Follow-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
 
-<img src="assets/h-more.svg" alt="More projects" width="100%" />
+</p>
 
-<img src="assets/p-easysheba.svg" alt="EasySheba: healthcare management and medical service platform" width="100%" />
 <br>
-<img src="media/easysheba1.png" width="45%" alt="EasySheba screenshot 1" />
-<img src="media/easysheba2.png" width="45%" alt="EasySheba screenshot 2" />
-<br><br>
-<img src="media/easysheba3.png" width="45%" alt="EasySheba screenshot 3" />
-<img src="media/easysheba4.png" width="45%" alt="EasySheba screenshot 4" />
 
-<br><br>
+---
 
-<img src="assets/p-kajlagbe.svg" alt="KajLagbe: local service marketplace for Android" width="100%" />
+<p align="center">
+
+💙 Thanks for visiting my profile!
+
+If you find something interesting here, consider ⭐ starring the repository.
+
 <br>
-<img src="media/kajlagbe1.jpeg" width="30%" alt="KajLagbe screenshot 1" />
-<img src="media/kajlagbe2.jpeg" width="30%" alt="KajLagbe screenshot 2" />
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Learn.+Repeat.;Building+the+future%2C+one+project+at+a+time.;Let's+build+something+amazing+together+🚀" />
 
-<img src="assets/p-campus.svg" alt="Campus Network System: university network simulation" width="100%" />
-<br>
-<img src="media/cns.png" width="80%" alt="Campus network topology in Cisco Packet Tracer" />
+</p>
 
-<br><br>
-
-<img src="assets/p-nagarfix.svg" alt="NagarFix: smart city service platform" width="100%" />
-<br>
-<img src="media/nagarfix1.jpeg" width="30%" alt="NagarFix screenshot 1" />
-<img src="media/nagarfix2.jpeg" width="30%" alt="NagarFix screenshot 2" />
-
-<br><br>
-
-<img src="assets/p-smarthome.svg" alt="Smart Home System: ESP32 IoT automation" width="100%" />
-<br>
-<img src="media/mm.jpeg" width="45%" alt="Smart home hardware" />
-<img src="media/mm2.jpeg" width="30%" alt="Smart home hardware, second view" />
-
-<br><br>
-
-<img src="assets/h-stats.svg" alt="GitHub activity" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&hide_border=false&border_color=3B3380&border_radius=22&bg_color=14103A&title_color=FFE3B0&icon_color=2DE2C8&text_color=D9D6FF" height="180" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&background=14103A&stroke=3B3380&ring=2DE2C8&fire=FF7A6B&currStreakNum=FFE3B0&currStreakLabel=2DE2C8&sideNums=FFFFFF&sideLabels=D9D6FF&dates=D9D6FF&border_radius=22" height="180" alt="Contribution streak" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm-hanif&layout=compact&hide_border=false&border_color=3B3380&border_radius=22&bg_color=14103A&title_color=FFE3B0&text_color=D9D6FF" alt="Top languages" />
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0B0A24&color=D9D6FF&line=2DE2C8&point=FFE3B0&area=true&area_color=7C5CFF&hide_border=true" width="95%" alt="Contribution activity graph" />
-
-<br><br>
-
-<img src="assets/h-how.svg" alt="How I work" width="100%" />
-<img src="assets/principles.svg" alt="Solve problems, keep learning, think scalable, build and ship" width="100%" />
-<img src="assets/exploring.svg" alt="Currently exploring: machine learning, AWS, cloud architecture, advanced Android, IoT" width="100%" />
-
-<img src="assets/h-connect.svg" alt="Let's connect" width="100%" />
-
-<a href="https://linkedin.com/in/abu-sayed-muhammed-hanif-15b689374/"><img src="assets/b-linkedin.svg" alt="LinkedIn" width="30%" /></a>
-<a href="mailto:abusayed1952hanif@gmail.com"><img src="assets/b-email.svg" alt="Email" width="30%" /></a>
-<a href="https://github.com/asm-hanif"><img src="assets/b-github.svg" alt="GitHub" width="30%" /></a>
-
-<img src="assets/footer.svg" alt="Code. Create. Learn. Repeat. Thanks for visiting." width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer" width="100%"/>
+</p>
