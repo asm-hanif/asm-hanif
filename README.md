@@ -157,7 +157,7 @@ FlatMate ships with a full test suite built on Node's built-in test runner and S
 <img src="media/shots.svg" width="100%" alt="FlatMate Gallery"/>
 
 <p align="center">
-  <img src="media/flatmate-placeholder-1.svg" width="32%" alt="Screenshot 1 - Home" />
+  <img src="Flatmate1.png" width="32%" alt="Screenshot 1 - Home" />
   <img src="media/flatmate-placeholder-2.svg" width="32%" alt="Screenshot 2 - Search" />
   <img src="media/flatmate-placeholder-3.svg" width="32%" alt="Screenshot 3 - Details" />
   <br>
