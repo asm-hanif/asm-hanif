@@ -1,0 +1,27 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Offline Dino</title>
+<style>html,body{margin:0;height:100%;background:radial-gradient(circle at 20% 20%,#00f7ff55,transparent 40%),radial-gradient(circle at 80% 80%,#ff3df555,transparent 45%),#0b0220;display:flex;align-items:center;justify-content:center;font-family:'Segoe UI',Arial,sans-serif;color:#fff}
+.glass{background:rgba(255,255,255,.12);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.35);border-radius:22px;padding:18px;text-align:center;max-width:96vw}
+canvas{width:min(900px,90vw);height:auto;background:rgba(255,255,255,.06);border-radius:14px;touch-action:manipulation}p{margin:8px 0 0;opacity:.85}</style></head>
+<body><div class="glass"><canvas id="c" width="900" height="260"></canvas><p>You're offline. SPACE / ↑ / tap to jump · ↓ to duck-fall</p></div>
+<script>
+const c=document.getElementById('c'),x=c.getContext('2d'),G=214;
+let d,obs,speed,score,hi=+localStorage.getItem('dinoHi')||0,over,t;
+function reset(){d={x:60,y:G,vy:0,on:true};obs=[];speed=6;score=0;over=false;t=0;}
+function jump(){if(over){reset();return;}if(d.on){d.vy=-13.5;d.on=false;}}
+addEventListener('keydown',e=>{if(e.code==='Space'||e.code==='ArrowUp'){e.preventDefault();jump();}if(e.code==='ArrowDown')d.vy=Math.max(d.vy,10);});
+c.addEventListener('pointerdown',jump);
+function step(){t++;score+=speed/40;speed=Math.min(15,6+score/120);
+ d.vy+=0.75;d.y+=d.vy;if(d.y>=G){d.y=G;d.vy=0;d.on=true;}
+ if(!obs.length||obs[obs.length-1].x<520-Math.random()*200)if(Math.random()<.03){const w=14+Math.random()*26|0,h=30+Math.random()*30|0;obs.push({x:920,w,h});}
+ obs.forEach(o=>o.x-=speed);obs=obs.filter(o=>o.x>-60);
+ for(const o of obs)if(d.x+34>o.x&&d.x<o.x+o.w&&d.y>G-o.h){over=true;hi=Math.max(hi,score|0);localStorage.setItem('dinoHi',hi);}}
+function draw(){x.clearRect(0,0,900,260);x.fillStyle='#e8f7ff';x.fillRect(0,G+2,900,3);
+ for(let i=0;i<14;i++)x.fillRect((i*97-t*speed)%900+(t*speed%900>0?0:0)+(i*97-t*speed<0?900:0),G+12+(i%3)*6,12+(i%4)*6,2);
+ obs.forEach(o=>{x.fillRect(o.x,G-o.h+2,o.w,o.h);x.fillRect(o.x-8,G-o.h+14,8,6);x.fillRect(o.x+o.w,G-o.h+22,8,6);});
+ x.fillRect(d.x,d.y-48,30,40);x.fillRect(d.x+14,d.y-60,28,22);x.fillStyle='#0b0220';x.fillRect(d.x+34,d.y-54,5,5);x.fillStyle='#e8f7ff';
+ const f=d.on&&(t>>3)%2;x.fillRect(d.x+4,d.y-8,8,f?8:2);x.fillRect(d.x+18,d.y-8,8,f?2:8);
+ x.font='bold 18px monospace';x.textAlign='right';x.fillText('HI '+String(hi).padStart(5,'0')+'  '+String(score|0).padStart(5,'0'),880,30);
+ if(over){x.textAlign='center';x.font='bold 30px Segoe UI';x.fillText('G A M E  O V E R',450,110);x.font='16px Segoe UI';x.fillText('press SPACE or tap to restart',450,140);}}
+(function loop(){if(!over)step();draw();requestAnimationFrame(loop);})();reset();
+</script></body></html>
