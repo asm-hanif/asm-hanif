@@ -157,13 +157,13 @@ FlatMate ships with a full test suite built on Node's built-in test runner and S
 <img src="media/shots.svg" width="100%" alt="FlatMate Gallery"/>
 
 <p align="center">
-  <img src="Flatmate1.png" width="32%" alt="Screenshot 1 - Home" />
-  <img src="media/flatmate-placeholder-2.svg" width="32%" alt="Screenshot 2 - Search" />
-  <img src="media/flatmate-placeholder-3.svg" width="32%" alt="Screenshot 3 - Details" />
+  <img src="Flatmate1.png" width="32%" alt="Screenshot 1" />
+  <img src="Flatmate2.png" width="32%" alt="Screenshot 2" />
+  <img src="Flatmate3.png" width="32%" alt="Screenshot 3" />
   <br>
-  <img src="media/flatmate-placeholder-4.svg" width="32%" alt="Screenshot 4 - Owner dashboard" />
-  <img src="media/flatmate-placeholder-5.svg" width="32%" alt="Screenshot 5 - Mira" />
-  <img src="media/flatmate-placeholder-6.svg" width="32%" alt="Screenshot 6 - Requests & chat" />
+  <img src="Flatmate4.png" width="32%" alt="Screenshot 4" />
+  <img src="Flatmate5.png" width="32%" alt="Screenshot 5" />
+  <img src="Flatmate6.png" width="32%" alt="Screenshot 6" />
 </p>
 
 <!-- TO ADD YOUR SCREENSHOTS: save them as media/flatmate-1.png ... flatmate-6.png,
