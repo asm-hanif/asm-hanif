@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0220"/><stop offset="1" stop-color="#021a3a"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f7ff"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff3df5"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+</defs>
+<clipPath id="c"><rect width="1000" height="130" rx="26"/></clipPath><g clip-path="url(#c)"><rect width="1000" height="130" fill="url(#bg)"/>
+<g filter="url(#blur)"><circle cx="120.0" cy="32.5" r="71.5" fill="#00f7ff" opacity=".75"/><circle cx="550.0" cy="123.5" r="78.0" fill="#ff3df5" opacity=".65"/><circle cx="900.0" cy="26.0" r="65.0" fill="#7c5cff" opacity=".8"/></g></g>
+<rect x="14" y="14" width="972" height="102" rx="22" fill="url(#glass)" stroke="#fff" stroke-opacity=".38" stroke-width="1.5"/>
+<rect x="15" y="15" width="970" height="57.0" rx="21" fill="#fff" opacity=".06"/>
+<text x="500.0" y="77.0" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="url(#txt)">🧠 About Me</text>
+</svg>
