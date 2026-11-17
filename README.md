@@ -1,48 +1,56 @@
+<!-- ═══════════════ HERO · THE FOURTH DIMENSION IS TIME (animated) ═══════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Abu+Sayed+Muhammed+Hanif;Software+Developer+%7C+ML+Enthusiast;Android+%7C+Web+%7C+Full-Stack;Building+Scalable+Real-World+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14110b,100:C9A24B&height=230&section=header&text=ABU%20SAYED%20MUHAMMED%20HANIF&fontSize=40&fontColor=EDE6D6&fontAlignY=38&desc=EST.%20MMXXVI%20%C2%B7%20ENGINEERED%20FOR%202050&descSize=15&descAlignY=60&descColor=C9A24B&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=1000&color=C9A24B&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Abu+Sayed+Muhammed+Hanif;Software+Developer+%7C+ML+Enthusiast;Android+%7C+Web+%7C+Full-Stack;Building+Scalable+Real-World+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=8A8372&center=true&vCenter=true&width=700&lines=%3E+initializing+future.sys+...;%3E+loading+neural+interface+...;%3E+status%3A+online+%E2%80%94+year+2050" />
 </p>
 
 <p align="center">
   <a href="https://github.com/asm-hanif">
-    <img src="https://img.shields.io/github/followers/asm-hanif?label=Followers&style=for-the-badge&color=00F7FF&labelColor=111827" />
+    <img src="https://img.shields.io/github/followers/asm-hanif?label=Followers&style=for-the-badge&color=C9A24B&labelColor=0A0A0A" />
   </a>
   <a href="https://github.com/asm-hanif?tab=repositories">
-    <img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=00F7FF&labelColor=111827" />
+    <img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=C9A24B&labelColor=0A0A0A" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=C9A24B&labelColor=0A0A0A&label=PROFILE+VIEWS" />
 </p>
 
 <br>
 
 <p align="center">
-  <strong>💻 Software Developer &nbsp;•&nbsp; 📱 Android Developer &nbsp;•&nbsp; 🌐 Full-Stack Developer</strong>
+  <strong>◆ Software Developer &nbsp;·&nbsp; ◆ Android Developer &nbsp;·&nbsp; ◆ Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  <em>Building useful technology that solves real-world problems.</em>
+  <em>“Building useful technology that solves real-world problems.”</em>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
 
----
-
-🧠 About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=I%20%C2%B7%20ABOUT%20ME&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-👋 Hey, I'm Hanif
+### 👋 Hey, I'm Hanif
 
 I'm an undergraduate **Computer Science & Engineering** student passionate about transforming ideas into practical software.
 
 I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
 
- 🎯 Currently Focused On
+#### 🎯 Currently Focused On
 
 * 🤖 Machine Learning & AI
 * ☁️ AWS AI/ML & Cloud Architecture
@@ -55,78 +63,80 @@ I enjoy working across the entire development stack — from designing interface
 
 <td width="45%" valign="top">
 
-⚡ Quick Profile
+### ⚡ Quick Profile
 
 ```text
-🎓 Education
-CSE @ Premier University
-Graduating: 2027
+◆ EDUCATION
+  CSE @ Premier University
+  Graduating: 2027
 
-💻 Development
-Full-Stack + Android
+◆ DEVELOPMENT
+  Full-Stack + Android
 
-🧠 Interests
-AI • ML • IoT • Cloud
+◆ INTERESTS
+  AI • ML • IoT • Cloud
 
-⚙️ Backend
-ASP.NET Core • Node.js
+◆ BACKEND
+  ASP.NET Core • Node.js
 
-📱 Mobile
-Kotlin • Jetpack Compose
+◆ MOBILE
+  Kotlin • Jetpack Compose
 
-🗄️ Database
-MS SQL • PostgreSQL • Firebase
+◆ DATABASE
+  MS SQL • PostgreSQL • Firebase
 
-🌱 Learning
-AWS AI/ML
-Cloud-Native Architecture
+◆ LEARNING
+  AWS AI/ML
+  Cloud-Native Architecture
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
 
----
-
-🛠️ Tech Arsenal
+<!-- ═══════════════ TECH ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=II%20%C2%B7%20TECH%20ARSENAL&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
 <p align="center">
 
- 💻 Languages
-
+<sub><b>💻 LANGUAGES</b></sub><br>
 <img src="https://skillicons.dev/icons?i=js,kotlin,cs,python,html,css" />
 
 <br><br>
 
-🌐 Web & Backend
-
+<sub><b>🌐 WEB & BACKEND</b></sub><br>
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,bootstrap" />
 
 <br><br>
 
- 📱 Mobile & Cloud
-
+<sub><b>📱 MOBILE & CLOUD</b></sub><br>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,aws" />
 
 <br><br>
 
- 🗄️ Database & Tools
-
+<sub><b>🗄️ DATABASE & TOOLS</b></sub><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio" />
 
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
 
----
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=III%20%C2%B7%20FEATURED%20PROJECTS&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
-🚀 Featured Projects
+## 🏠 FlatMate
 
-🏠 FlatMate
-
-AI-Powered Property Marketplace & Rental Platform
+**AI-Powered Property Marketplace & Rental Platform**
 
 > A Bangladesh-wide property marketplace that connects property owners with people looking to buy or rent properties, enhanced with an AI assistant named Mira that helps owners estimate suitable property prices and helps seekers discover properties based on their requirements.
 
@@ -134,7 +144,7 @@ AI-Powered Property Marketplace & Rental Platform
 <tr>
 <td width="50%" valign="top">
 
-✨ Key Features
+### ✨ Key Features
 
 * 🏠 Property listing for **sale, rent, or both**
 * 🔍 Advanced property search & filtering
@@ -153,18 +163,18 @@ AI-Powered Property Marketplace & Rental Platform
 
 <td width="50%" valign="top">
 
-🤖 Mira — AI Property Assistant
+### 🤖 Mira — AI Property Assistant
 
 Mira is the intelligent assistant built into FlatMate to make property decisions easier.
 
-For Owners
+**For Owners**
 
 * 💵 Estimates suitable property pricing
 * 🏠 Analyzes property specifications
 * 📊 Helps determine a competitive price
 * 🎯 Supports better listing decisions
 
-For Property Seekers
+**For Property Seekers**
 
 * 🔎 Understands their requirements
 * 🏡 Finds suitable properties
@@ -175,9 +185,7 @@ For Property Seekers
 </tr>
 </table>
 
-<br>
-
-🧠 How Mira Works
+### 🧠 How Mira Works
 
 ```text
                     ┌───────────────────┐
@@ -202,7 +210,7 @@ For Property Seekers
                        Decisions
 ```
 
-⚙️ Technology
+### ⚙️ Technology
 
 ```text
 HTML5
@@ -230,11 +238,13 @@ AI Property Recommendation
   <img src="Flatmate6.png" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
 
+## 🏥 EasySheba
 
-🏥 EasySheba
-
- Healthcare Management & Medical Service Platform
+**Healthcare Management & Medical Service Platform**
 
 > A comprehensive healthcare platform designed to connect patients with doctors, hospitals, diagnostic services, appointments and medical resources.
 
@@ -242,7 +252,7 @@ AI Property Recommendation
 <tr>
 <td>
 
-✨ Key Features
+### ✨ Key Features
 
 * 🩺 Doctor appointment booking
 * 🧪 Medical test scheduling
@@ -256,7 +266,7 @@ AI Property Recommendation
 </td>
 <td>
 
-⚙️ Technology
+### ⚙️ Technology
 
 ```text
 ASP.NET Core MVC
@@ -281,11 +291,13 @@ ASP.NET Identity
   <img src="media/easysheba4.png" width="45%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
 
-🛠️ KajLagbe
+## 🛠️ KajLagbe
 
-Local Service Marketplace
+**Local Service Marketplace**
 
 > A mobile marketplace connecting people who need services with local service providers.
 
@@ -293,7 +305,7 @@ Local Service Marketplace
 <tr>
 <td width="50%">
 
-🔥 Features
+### 🔥 Features
 
 * 🔐 Firebase Authentication
 * 💬 Real-time messaging
@@ -306,13 +318,13 @@ Local Service Marketplace
 
 <td width="50%">
 
-📱 Built With
+### 📱 Built With
 
 <img src="https://skillicons.dev/icons?i=kotlin,firebase" />
 
 <br><br>
 
-Architecture
+**Architecture**
 
 ```text
 Kotlin
@@ -331,18 +343,21 @@ Firebase Storage
   <img src="media/kajlagbe2.jpeg" width="30%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
 
-🌐 Campus Network System
+## 🌐 Campus Network System
 
-University Network Simulation
+**University Network Simulation**
 
 > A complete simulated university network designed to demonstrate enterprise networking, routing, switching and security concepts.
 
 <table>
 <tr>
 <td>
-🔌 Networking
+
+### 🔌 Networking
 
 * VLAN configuration
 * ACL implementation
@@ -357,7 +372,7 @@ University Network Simulation
 
 <td>
 
-🧰 Tools
+### 🧰 Tools
 
 ```text
 Cisco Packet Tracer
@@ -379,14 +394,17 @@ Servers
   <img src="media/cns.png" width="80%" />
 </p>
 
----
-🏙️ NagarFix
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
 
-Smart City Service Platform
+## 🏙️ NagarFix
+
+**Smart City Service Platform**
 
 > A citizen-focused platform that allows people to report urban problems and track their resolution.
 
-🚧 Problem → Solution
+### 🚧 Problem → Solution
 
 ```text
 Citizen
@@ -404,7 +422,7 @@ Status Updates
 Citizen Tracking
 ```
 
-✨ Features
+### ✨ Features
 
 * 📍 Location-based issue reporting
 * 📸 Issue documentation
@@ -412,18 +430,20 @@ Citizen Tracking
 * 🔄 Real-time updates
 * 🏙️ Smart city management
 
-Technology: Kotlin • Firebase • Android
+**Technology:** Kotlin • Firebase • Android
 
 <p align="center">
   <img src="media/nagarfix1.jpeg" width="30%" />
   <img src="media/nagarfix2.jpeg" width="30%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
 
-🏠 Smart Home System
+## 🏠 Smart Home System
 
-ESP32 IoT Automation Project
+**ESP32 IoT Automation Project**
 
 > An affordable and scalable IoT-based smart home system for remotely controlling household appliances.
 
@@ -431,7 +451,7 @@ ESP32 IoT Automation Project
 <tr>
 <td>
 
-🔌 Hardware
+### 🔌 Hardware
 
 * ESP32
 * IR Sensors
@@ -443,7 +463,7 @@ ESP32 IoT Automation Project
 
 <td>
 
-⚡ Capabilities
+### ⚡ Capabilities
 
 * Remote appliance control
 * Real-time device status
@@ -460,48 +480,49 @@ ESP32 IoT Automation Project
   <img src="media/mm2.jpeg" width="30%" />
 </p>
 
-<br>
-
----
-
-📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<br>
-
+<!-- ═══════════════ ANALYTICS ═══════════════ -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm-hanif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=IV%20%C2%B7%20GITHUB%20ANALYTICS&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
 </p>
 
-<br>
-
----
-
-📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asm-hanif&show_icons=true&theme=dark&hide_border=false&border_color=3b3322&border_radius=18&bg_color=0A0A0A&title_color=C9A24B&icon_color=C9A24B&text_color=EDE6D6" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-hanif&theme=dark&hide_border=false&border_radius=18&stroke=3b3322&background=0A0A0A&ring=C9A24B&fire=C9A24B&currStreakNum=EDE6D6&currStreakLabel=C9A24B&sideNums=EDE6D6&sideLabels=C9A24B&dates=8A8372" height="180"/>
 </p>
 
-<br>
-
----
-
-🧩 Development Philosophy
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm-hanif&layout=compact&theme=dark&hide_border=false&border_color=3b3322&border_radius=18&bg_color=0A0A0A&title_color=C9A24B&text_color=EDE6D6" />
+</p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
+</p>
+
+<p align="center">
+  <sub><b>CONTRIBUTION ACTIVITY</b></sub><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0A0A0A&color=C9A24B&line=C9A24B&point=EDE6D6&area=true&area_color=C9A24B&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
+
+<!-- ═══════════════ PHILOSOPHY ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=V%20%C2%B7%20DEVELOPMENT%20PHILOSOPHY&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-🎯
+### 🎯
 
-Solve Problems
+**Solve Problems**
 
 Build technology that has a real purpose.
 
@@ -509,9 +530,9 @@ Build technology that has a real purpose.
 
 <td align="center" width="25%">
 
-⚡
+### ⚡
 
-Keep Learning
+**Keep Learning**
 
 Always explore new technologies and ideas.
 
@@ -519,9 +540,9 @@ Always explore new technologies and ideas.
 
 <td align="center" width="25%">
 
-🧠
+### 🧠
 
-Think Scalable
+**Think Scalable**
 
 Design systems with growth in mind.
 
@@ -529,9 +550,9 @@ Design systems with growth in mind.
 
 <td align="center" width="25%">
 
-🚀
+### 🚀
 
-Build & Ship
+**Build & Ship**
 
 Turn concepts into working products.
 
@@ -539,64 +560,90 @@ Turn concepts into working products.
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
----
-
-🌱 Currently Exploring
+<!-- ═══════════════ EXPLORING ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VI%20%C2%B7%20CURRENTLY%20EXPLORING&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
 <p align="center">
 
-`🤖 Machine Learning`
+`🤖 Machine Learning` &nbsp; `☁️ AWS` &nbsp; `🧠 AI Systems`
 
-`☁️ AWS`
-
-`🧠 AI Systems`
-
-`🏗️ Cloud Architecture`
-
-`📱 Advanced Android`
-
-`🔌 IoT`
+`🏗️ Cloud Architecture` &nbsp; `📱 Advanced Android` &nbsp; `🔌 IoT`
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
 
-🤝 Let's Connect
+<!-- ═══════════════ MAP ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VII%20%C2%B7%20FIND%20ME%20%E2%80%94%20CHAWKBAZAR&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=650&lines=%F0%9F%93%8D+Chawkbazar%2C+Chittagong+%28Chattogram%29%2C+Bangladesh;LAT+22.36%C2%B0+N+%C2%B7+LON+91.84%C2%B0+E;Port+city.+Old+streets.+New+ideas." />
+</p>
+
+<p align="center">
+  <a href="https://www.google.com/maps/search/?api=1&query=Chawkbazar+Chittagong+Bangladesh">
+    <img src="https://staticmap.openstreetmap.de/staticmap.php?center=22.3600,91.8400&zoom=14&size=900x420&maptype=mapnik&markers=22.3600,91.8400,red-pushpin" width="85%" alt="Map of Chawkbazar, Chittagong, Bangladesh"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.google.com/maps/search/?api=1&query=Chawkbazar+Chittagong+Bangladesh">
+    <img src="https://img.shields.io/badge/Open%20in-Google%20Maps-C9A24B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0A0A"/>
+  </a>
+  <a href="https://www.openstreetmap.org/search?query=Chawkbazar%20Chittagong">
+    <img src="https://img.shields.io/badge/Open%20in-OpenStreetMap-C9A24B?style=for-the-badge&logo=openstreetmap&logoColor=white&labelColor=0A0A0A"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VIII%20%C2%B7%20LET'S%20CONNECT&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+</p>
 
 <p align="center">
 
 <a href="https://linkedin.com/in/abu-sayed-muhammed-hanif-15b689374/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C9A24B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 <a href="mailto:abusayed1952hanif@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Email-Contact-C9A24B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 <a href="https://github.com/asm-hanif">
-<img src="https://img.shields.io/badge/GitHub-Follow-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-C9A24B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 </p>
 
 <br>
 
----
-
 <p align="center">
 
-💙 Thanks for visiting my profile!
+<sub>✦ Thanks for visiting my profile ✦</sub>
 
-If you find something interesting here, consider ⭐ starring the repository.
+<sub>If you find something interesting here, consider ⭐ starring the repository.</sub>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Learn.+Repeat.;Building+the+future%2C+one+project+at+a+time.;Let's+build+something+amazing+together+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=18&duration=3000&pause=1000&color=C9A24B&center=true&vCenter=true&width=650&lines=Code.+Create.+Learn.+Repeat.;Building+the+future%2C+one+project+at+a+time.;Let's+build+something+amazing+together+%F0%9F%9A%80" />
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A24B,50:14110b,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
