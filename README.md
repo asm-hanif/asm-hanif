@@ -18,7 +18,6 @@
   <a href="https://github.com/asm-hanif?tab=repositories">
     <img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=C9A24B&labelColor=0A0A0A" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=C9A24B&labelColor=0A0A0A&label=PROFILE+VIEWS" />
 </p>
 
 <br>
@@ -44,13 +43,13 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👋 Hey, I'm Hanif
+👋 Hey, I'm Hanif
 
-I'm an undergraduate **Computer Science & Engineering** student passionate about transforming ideas into practical software.
+I'm an undergraduate Computer Science & Engineering student passionate about transforming ideas into practical software.
 
 I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
 
-#### 🎯 Currently Focused On
+🎯 Currently Focused On
 
 * 🤖 Machine Learning & AI
 * ☁️ AWS AI/ML & Cloud Architecture
