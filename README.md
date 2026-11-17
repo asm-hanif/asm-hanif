@@ -1,6 +1,6 @@
 <!-- ═══════════════ HERO · THE FOURTH DIMENSION IS TIME (animated) ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14110b,100:C9A24B&height=230&section=header&text=ABU%20SAYED%20MUHAMMED%20HANIF&fontSize=40&fontColor=EDE6D6&fontAlignY=38&desc=EST.%20MMXXVI%20%C2%B7%20ENGINEERED%20FOR%202050&descSize=15&descAlignY=60&descColor=C9A24B&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14110b,100:C9A24B&height=230&section=header&text=ABU%20SAYED%20MUHAMMED%20HANIF&fontSize=40&fontColor=EDE6D6&fontAlignY=38&descSize=15&descAlignY=60&descColor=C9A24B&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
