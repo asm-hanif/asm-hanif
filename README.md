@@ -220,11 +220,11 @@ AI Property Recommendation
 
 <p align="center">
   <!-- Add your FlatMate screenshots here -->
-  <img src="media/flatmate1.png" width="45%" />
-  <img src="media/flatmate2.png" width="45%" />
+  <img src="media/Flatmate1.png" width="45%" />
+  <img src="media/Flatmate2.png" width="45%" />
   <br><br>
-  <img src="media/flatmate3.png" width="45%" />
-  <img src="media/flatmate4.png" width="45%" />
+  <img src="media/Flatmate3.png" width="45%" />
+  <img src="media/Flatmate4.png" width="45%" />
 </p>
 
 
