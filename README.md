@@ -1,6 +1,6 @@
-<!-- ═══════════════ HERO · THE FOURTH DIMENSION IS TIME (animated) ═══════════════ -->
+<!-- ═════════════════════════ HERO ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14110b,100:C9A24B&height=230&section=header&text=ABU%20SAYED%20MUHAMMED%20HANIF&fontSize=40&fontColor=EDE6D6&fontAlignY=38&descSize=15&descAlignY=60&descColor=C9A24B&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:14110b,100:C9A24B&height=240&section=header&text=ABU%20SAYED%20MUHAMMED%20HANIF&fontSize=40&fontColor=EDE6D6&fontAlignY=38&descSize=15&descAlignY=60&descColor=C9A24B&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,15 +18,11 @@
   <a href="https://github.com/asm-hanif?tab=repositories">
     <img src="https://img.shields.io/github/stars/asm-hanif?label=Stars&style=for-the-badge&color=C9A24B&labelColor=0A0A0A" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>◆ Software Developer &nbsp;·&nbsp; ◆ Android Developer &nbsp;·&nbsp; ◆ Full-Stack Developer</strong>
+  <img src="https://komarev.com/ghpvc/?username=asm-hanif&style=for-the-badge&color=C9A24B&labelColor=0A0A0A&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
+  <strong>◆ Software Developer &nbsp;·&nbsp; ◆ Android Developer &nbsp;·&nbsp; ◆ Full-Stack Developer</strong><br>
   <em>“Building useful technology that solves real-world problems.”</em>
 </p>
 
@@ -34,60 +30,174 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+<!-- ═════════════════════════ I · ABOUT ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=I%20%C2%B7%20ABOUT%20ME&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=I%20%C2%B7%20THE%20PORTRAIT&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=who%20%C2%B7%20what%20%C2%B7%20why&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
 </p>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="33%" align="center" valign="top">
 
-👋 Hey, I'm Hanif
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1a160d&height=44&text=IDENTITY&fontSize=15&fontColor=C9A24B&fontAlignY=55" width="100%"/>
 
-I'm an undergraduate Computer Science & Engineering student passionate about transforming ideas into practical software.
+Abu Sayed Muhammed Hanif
 
-I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
-
-🎯 Currently Focused On
-
-* 🤖 Machine Learning & AI
-* ☁️ AWS AI/ML & Cloud Architecture
-* 📱 Modern Android Development
-* 🌐 Full-Stack Web Development
-* 🔌 IoT & Smart Systems
-* 🧩 Scalable Backend Architecture
+CSE @ Premier University
+Graduating 2027
 
 </td>
+<td width="33%" align="center" valign="top">
 
-<td width="45%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1a160d&height=44&text=CRAFT&fontSize=15&fontColor=C9A24B&fontAlignY=55" width="100%"/>
 
-### ⚡ Quick Profile
+Full-Stack + Android
+
+ASP.NET Core • Node.js
+Kotlin • Jetpack Compose
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1a160d&height=44&text=CURIOSITY&fontSize=15&fontColor=C9A24B&fontAlignY=55" width="100%"/>
+
+AI • ML • IoT • Cloud
+
+Learning AWS AI/ML
+& Cloud-Native Architecture
+
+</td>
+</tr>
+</table>
+
+> 👋 Hey, I'm Hanif.
+> I'm an undergraduate **Computer Science & Engineering** student passionate about transforming ideas into practical software.
+> I enjoy working across the entire development stack — from designing interfaces and building Android applications to developing scalable backend systems and experimenting with Machine Learning.
+
+<p align="center">
+  <sub><b>CURRENTLY FOCUSED ON</b></sub><br><br>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/AWS%20AI%2FML%20%26%20Cloud-0A0A0A?style=for-the-badge&logo=icloud&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Modern%20Android-0A0A0A?style=for-the-badge&logo=android&logoColor=C9A24B"/>
+  <br>
+  <img src="https://img.shields.io/badge/Full--Stack%20Web-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20Smart%20Systems-0A0A0A?style=for-the-badge&logo=espressif&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Scalable%20Backend-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=C9A24B"/>
+</p>
 
 ```text
-◆ EDUCATION
-  CSE @ Premier University
-  Graduating: 2027
-
-◆ DEVELOPMENT
-  Full-Stack + Android
-
-◆ INTERESTS
-  AI • ML • IoT • Cloud
-
-◆ BACKEND
-  ASP.NET Core • Node.js
-
-◆ MOBILE
-  Kotlin • Jetpack Compose
-
-◆ DATABASE
-  MS SQL • PostgreSQL • Firebase
-
-◆ LEARNING
-  AWS AI/ML
-  Cloud-Native Architecture
+╔══════════════════════════════════════════════════════════╗
+║  H A N I F . S Y S                              ● ONLINE ║
+╠══════════════════════════════════════════════════════════╣
+║  EDUCATION    CSE @ Premier University · Class of 2027   ║
+║  DEVELOPMENT  Full-Stack + Android                       ║
+║  INTERESTS    AI · ML · IoT · Cloud                      ║
+║  BACKEND      ASP.NET Core · Node.js                     ║
+║  MOBILE       Kotlin · Jetpack Compose                   ║
+║  DATABASE     MS SQL · PostgreSQL · Firebase             ║
+║  LEARNING     AWS AI/ML · Cloud-Native Architecture      ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
+</p>
+
+<!-- ═════════════════════════ II · TECH ═════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=II%20%C2%B7%20THE%20STACK&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=five%20layers%20%C2%B7%20one%20system&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
+</p>
+
+<table>
+<tr>
+<th width="22%" align="left">LAYER</th>
+<th align="left">INSTRUMENTS</th>
+</tr>
+
+<tr>
+<td valign="middle">
+
+01 · LANGUAGES
+<sub>the alphabet</sub>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=C9A24B"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+02 · WEB & BACKEND
+<sub>the engine room</sub>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=C9A24B"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+03 · MOBILE & CLOUD
+<sub>in every pocket</sub>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Android%20Studio-0A0A0A?style=for-the-badge&logo=androidstudio&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-0A0A0A?style=for-the-badge&logo=jetpackcompose&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=C9A24B"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+04 · DATA
+<sub>the vault</sub>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=C9A24B"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+05 · TOOLS
+<sub>the workshop</sub>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=C9A24B"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-0A0A0A?style=for-the-badge&logo=visualstudio&logoColor=C9A24B"/>
 
 </td>
 </tr>
@@ -97,45 +207,69 @@ I enjoy working across the entire development stack — from designing interface
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ TECH ═══════════════ -->
+<!-- ═════════════════════════ III · PROJECTS ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=II%20%C2%B7%20TECH%20ARSENAL&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=III%20%C2%B7%20THE%20COLLECTION&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=six%20works%20%C2%B7%20six%20problems%20solved&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+01 · FlatMate
+<sub>AI property marketplace</sub>
+
+</td>
+<td align="center" width="33%">
+
+02 · EasySheba
+<sub>healthcare platform</sub>
+
+</td>
+<td align="center" width="33%">
+
+03 · KajLagbe
+<sub>local service marketplace</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+04 · Campus Network
+<sub>university network simulation</sub>
+
+</td>
+<td align="center">
+
+05 · NagarFix
+<sub>smart city platform</sub>
+
+</td>
+<td align="center">
+
+06 · Smart Home
+<sub>ESP32 IoT automation</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ───────────── 01 · FLATMATE ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=FLATMATE&fontSize=54&fontColor=EDE6D6&fontAlignY=40&desc=AI-Powered%20Property%20Marketplace%20%26%20Rental%20Platform&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
 </p>
 
 <p align="center">
-
-<sub><b>💻 LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=js,kotlin,cs,python,html,css" />
-
-<br><br>
-
-<sub><b>🌐 WEB & BACKEND</b></sub><br>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,bootstrap" />
-
-<br><br>
-
-<sub><b>📱 MOBILE & CLOUD</b></sub><br>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,aws" />
-
-<br><br>
-
-<sub><b>🗄️ DATABASE & TOOLS</b></sub><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio" />
-
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=flat-square&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/AI%20Assistant-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Web-C9A24B?style=flat-square&labelColor=0A0A0A"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
-</p>
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=III%20%C2%B7%20FEATURED%20PROJECTS&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
-</p>
-
-## 🏠 FlatMate
-
-**AI-Powered Property Marketplace & Rental Platform**
 
 > A Bangladesh-wide property marketplace that connects property owners with people looking to buy or rent properties, enhanced with an AI assistant named Mira that helps owners estimate suitable property prices and helps seekers discover properties based on their requirements.
 
@@ -143,48 +277,52 @@ I enjoy working across the entire development stack — from designing interface
 <tr>
 <td width="50%" valign="top">
 
-### ✨ Key Features
+◆ Key Features
 
-* 🏠 Property listing for **sale, rent, or both**
-* 🔍 Advanced property search & filtering
-* 📍 Property discovery across Bangladesh
-* 💰 Buy & rental property marketplace
-* 👤 Role-based **Owner & Seeker** accounts
-* 📝 Owners can create & manage listings
-* ❤️ Save / favorite properties
-* 📩 Property request & inquiry system
-* 🖼️ Property image & media management
-* 📊 Role-based dashboards
-* 🔐 Secure authentication & authorization
-* 📱 Responsive web interface
+ 🏠 Property listing for sale, rent, or both
+ 🔍 Advanced property search & filtering
+ 📍 Property discovery across Bangladesh
+ 💰 Buy & rental property marketplace
+ 👤 Role-based **Owner & Seeker** accounts
+ 📝 Owners can create & manage listings
+ ❤️ Save / favorite properties
+ 📩 Property request & inquiry system
+ 🖼️ Property image & media management
+ 📊 Role-based dashboards
+ 🔐 Secure authentication & authorization
+ 📱 Responsive web interface
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Mira — AI Property Assistant
+◆ Mira — AI Property Assistant
 
 Mira is the intelligent assistant built into FlatMate to make property decisions easier.
 
-**For Owners**
+For Owners
 
-* 💵 Estimates suitable property pricing
-* 🏠 Analyzes property specifications
-* 📊 Helps determine a competitive price
-* 🎯 Supports better listing decisions
+ 💵 Estimates suitable property pricing
+ 🏠 Analyzes property specifications
+ 📊 Helps determine a competitive price
+ 🎯 Supports better listing decisions
 
-**For Property Seekers**
+For Property Seekers
 
-* 🔎 Understands their requirements
-* 🏡 Finds suitable properties
-* 🎯 Matches preferences with available listings
-* 💡 Helps narrow down property choices
+ 🔎 Understands their requirements
+ 🏡 Finds suitable properties
+ 🎯 Matches preferences with available listings
+ 💡 Helps narrow down property choices
 
 </td>
 </tr>
 </table>
 
-### 🧠 How Mira Works
+<table>
+<tr>
+<td width="50%" valign="top">
+
+◆ How Mira Works
 
 ```text
                     ┌───────────────────┐
@@ -209,7 +347,10 @@ Mira is the intelligent assistant built into FlatMate to make property decisions
                        Decisions
 ```
 
-### ⚙️ Technology
+</td>
+<td width="50%" valign="top">
+
+ ◆ Technology
 
 ```text
 HTML5
@@ -225,47 +366,65 @@ AI-Assisted Property Analysis
 AI Property Recommendation
 ```
 
-<p align="center">
-  <!-- Add your FlatMate screenshots here -->
-  <img src="Flatmate1.png" width="45%" />
-  <img src="Flatmate2.png" width="45%" />
-  <br><br>
-  <img src="Flatmate3.png" width="45%" />
-  <img src="Flatmate4.png" width="45%" />
-  <br><br>
-  <img src="Flatmate5.png" width="45%" />
-  <img src="Flatmate6.png" width="45%" />
-</p>
+</td>
+</tr>
+</table>
+
+<!-- Add your FlatMate screenshots here -->
+<table>
+<tr>
+<td width="50%" align="center"><img src="Flatmate1.png" width="100%" /><br><sub>◆ INTERFACE 01</sub></td>
+<td width="50%" align="center"><img src="Flatmate2.png" width="100%" /><br><sub>◆ INTERFACE 02</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="Flatmate3.png" width="100%" /><br><sub>◆ INTERFACE 03</sub></td>
+<td width="50%" align="center"><img src="Flatmate4.png" width="100%" /><br><sub>◆ INTERFACE 04</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="Flatmate5.png" width="100%" /><br><sub>◆ INTERFACE 05</sub></td>
+<td width="50%" align="center"><img src="Flatmate6.png" width="100%" /><br><sub>◆ INTERFACE 06</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
 </p>
 
-## 🏥 EasySheba
+<!-- ───────────── 02 · EASYSHEBA ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=EASYSHEBA&fontSize=54&fontColor=EDE6D6&fontAlignY=40&desc=Healthcare%20Management%20%26%20Medical%20Service%20Platform&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
+</p>
 
-**Healthcare Management & Medical Service Platform**
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-0A0A0A?style=flat-square&logo=dotnet&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=flat-square&logo=csharp&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0A0A0A?style=flat-square&logo=microsoftsqlserver&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=flat-square&logo=bootstrap&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-0A0A0A?style=flat-square&logo=googlemaps&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Healthcare-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+</p>
 
 > A comprehensive healthcare platform designed to connect patients with doctors, hospitals, diagnostic services, appointments and medical resources.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### ✨ Key Features
+ ◆ Key Features
 
-* 🩺 Doctor appointment booking
-* 🧪 Medical test scheduling
-* 🛏️ Bed reservation
-* 👨‍⚕️ Doctor management
-* 🏥 Hospital management
-* 🔐 Role-based authentication
-* 📊 Administrative dashboards
-* 📍 Google Maps integration
+ 🩺 Doctor appointment booking
+ 🧪 Medical test scheduling
+ 🛏️ Bed reservation
+ 👨‍⚕️ Doctor management
+ 🏥 Hospital management
+ 🔐 Role-based authentication
+ 📊 Administrative dashboards
+ 📍 Google Maps integration
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-### ⚙️ Technology
+ ◆ Technology
 
 ```text
 ASP.NET Core MVC
@@ -282,48 +441,58 @@ ASP.NET Identity
 </tr>
 </table>
 
-<p align="center">
-  <img src="media/easysheba1.png" width="45%" />
-  <img src="media/easysheba2.png" width="45%" />
-  <br><br>
-  <img src="media/easysheba3.png" width="45%" />
-  <img src="media/easysheba4.png" width="45%" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center"><img src="media/easysheba1.png" width="100%" /><br><sub>◆ INTERFACE 01</sub></td>
+<td width="50%" align="center"><img src="media/easysheba2.png" width="100%" /><br><sub>◆ INTERFACE 02</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="media/easysheba3.png" width="100%" /><br><sub>◆ INTERFACE 03</sub></td>
+<td width="50%" align="center"><img src="media/easysheba4.png" width="100%" /><br><sub>◆ INTERFACE 04</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
 </p>
 
-## 🛠️ KajLagbe
+<!-- ───────────── 03 · KAJLAGBE ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=KAJLAGBE&fontSize=54&fontColor=EDE6D6&fontAlignY=40&desc=Local%20Service%20Marketplace&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
+</p>
 
-**Local Service Marketplace**
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0A0A0A?style=flat-square&logo=kotlin&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-0A0A0A?style=flat-square&logo=jetpackcompose&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Android-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Real--time-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+</p>
 
 > A mobile marketplace connecting people who need services with local service providers.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Features
+ ◆ Features
 
-* 🔐 Firebase Authentication
-* 💬 Real-time messaging
-* ⭐ Rating & review system
-* 👤 Service provider profiles
-* 📍 Local service discovery
-* ⚡ Real-time data synchronization
+ 🔐 Firebase Authentication
+ 💬 Real-time messaging
+ ⭐ Rating & review system
+ 👤 Service provider profiles
+ 📍 Local service discovery
+ ⚡ Real-time data synchronization
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Built With
+ ◆ Built With
 
 <img src="https://skillicons.dev/icons?i=kotlin,firebase" />
 
-<br><br>
-
-**Architecture**
+Architecture
 
 ```text
 Kotlin
@@ -337,41 +506,51 @@ Firebase Storage
 </tr>
 </table>
 
-<p align="center">
-  <img src="media/kajlagbe1.jpeg" width="30%" />
-  <img src="media/kajlagbe2.jpeg" width="30%" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center"><img src="media/kajlagbe1.jpeg" width="60%" /><br><sub>◆ SCREEN 01</sub></td>
+<td width="50%" align="center"><img src="media/kajlagbe2.jpeg" width="60%" /><br><sub>◆ SCREEN 02</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
 </p>
 
-## 🌐 Campus Network System
+<!-- ───────────── 04 · CAMPUS NETWORK ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=CAMPUS%20NETWORK&fontSize=50&fontColor=EDE6D6&fontAlignY=40&desc=University%20Network%20Simulation&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
+</p>
 
-**University Network Simulation**
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0A0A0A?style=flat-square&logo=cisco&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/VLANs-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/ACLs-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+</p>
 
 > A complete simulated university network designed to demonstrate enterprise networking, routing, switching and security concepts.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🔌 Networking
+ ◆ Networking
 
-* VLAN configuration
-* ACL implementation
-* Routing
-* Access switching
-* Serial connections
-* Email server
-* IoT integration
-* Cloud connectivity
+ VLAN configuration
+ ACL implementation
+ Routing
+ Access switching
+ Serial connections
+ Email server
+ IoT integration
+ Cloud connectivity
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🧰 Tools
+◆ Tools
 
 ```text
 Cisco Packet Tracer
@@ -389,21 +568,35 @@ Servers
 </tr>
 </table>
 
-<p align="center">
-  <img src="media/cns.png" width="80%" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="media/cns.png" width="100%" /><br><sub>◆ TOPOLOGY</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
 </p>
 
-## 🏙️ NagarFix
+<!-- ───────────── 05 · NAGARFIX ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=NAGARFIX&fontSize=54&fontColor=EDE6D6&fontAlignY=40&desc=Smart%20City%20Service%20Platform&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
+</p>
 
-**Smart City Service Platform**
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0A0A0A?style=flat-square&logo=kotlin&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Android-0A0A0A?style=flat-square&logo=android&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Smart%20City-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+</p>
 
 > A citizen-focused platform that allows people to report urban problems and track their resolution.
 
-### 🚧 Problem → Solution
+<table>
+<tr>
+<td width="50%" valign="top">
+
+ ◆ Problem → Solution
 
 ```text
 Citizen
@@ -421,71 +614,91 @@ Status Updates
 Citizen Tracking
 ```
 
-### ✨ Features
-
-* 📍 Location-based issue reporting
-* 📸 Issue documentation
-* 📊 Resolution tracking
-* 🔄 Real-time updates
-* 🏙️ Smart city management
-
-**Technology:** Kotlin • Firebase • Android
-
-<p align="center">
-  <img src="media/nagarfix1.jpeg" width="30%" />
-  <img src="media/nagarfix2.jpeg" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
-</p>
-
-## 🏠 Smart Home System
-
-**ESP32 IoT Automation Project**
-
-> An affordable and scalable IoT-based smart home system for remotely controlling household appliances.
-
-<table>
-<tr>
-<td>
-
-### 🔌 Hardware
-
-* ESP32
-* IR Sensors
-* Servo Motors
-* Rain Sensor
-* Wi-Fi connectivity
-
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### ⚡ Capabilities
+ ◆ Features
 
-* Remote appliance control
-* Real-time device status
-* Automated actions
-* Wi-Fi communication
-* Smart monitoring
+ 📍 Location-based issue reporting
+ 📸 Issue documentation
+ 📊 Resolution tracking
+ 🔄 Real-time updates
+ 🏙️ Smart city management
+
+Technology: Kotlin • Firebase • Android
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" align="center"><img src="media/nagarfix1.jpeg" width="60%" /><br><sub>◆ SCREEN 01</sub></td>
+<td width="50%" align="center"><img src="media/nagarfix2.jpeg" width="60%" /><br><sub>◆ SCREEN 02</sub></td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="media/mm.jpeg" width="45%" />
-  <img src="media/mm2.jpeg" width="30%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
 </p>
+
+<!-- ───────────── 06 · SMART HOME ───────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:1a160d,100:C9A24B&height=170&text=SMART%20HOME&fontSize=54&fontColor=EDE6D6&fontAlignY=40&desc=ESP32%20IoT%20Automation%20Project&descSize=17&descColor=C9A24B&descAlignY=68&animation=scaleIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-0A0A0A?style=flat-square&logo=espressif&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Wi--Fi-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/IoT-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Automation-C9A24B?style=flat-square&labelColor=0A0A0A"/>
+</p>
+
+> An affordable and scalable IoT-based smart home system for remotely controlling household appliances.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+ ◆ Hardware
+
+ ESP32
+ IR Sensors
+ Servo Motors
+ Rain Sensor
+ Wi-Fi connectivity
+
+</td>
+
+<td width="50%" valign="top">
+
+ ◆ Capabilities
+
+ Remote appliance control
+ Real-time device status
+ Automated actions
+ Wi-Fi communication
+ Smart monitoring
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" align="center"><img src="media/mm.jpeg" width="100%" /><br><sub>◆ PROTOTYPE 01</sub></td>
+<td width="40%" align="center"><img src="media/mm2.jpeg" width="100%" /><br><sub>◆ PROTOTYPE 02</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ ANALYTICS ═══════════════ -->
+<!-- ═════════════════════════ IV · ANALYTICS ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=IV%20%C2%B7%20GITHUB%20ANALYTICS&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=IV%20%C2%B7%20THE%20LEDGER&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=github%20analytics&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -498,10 +711,6 @@ Citizen Tracking
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:6b5a2e,100:0A0A0A&height=1" width="50%"/>
-</p>
-
-<p align="center">
   <sub><b>CONTRIBUTION ACTIVITY</b></sub><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asm-hanif&bg_color=0A0A0A&color=C9A24B&line=C9A24B&point=EDE6D6&area=true&area_color=C9A24B&hide_border=true" width="95%"/>
 </p>
@@ -510,18 +719,18 @@ Citizen Tracking
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ PHILOSOPHY ═══════════════ -->
+<!-- ═════════════════════════ V · PHILOSOPHY ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=V%20%C2%B7%20DEVELOPMENT%20PHILOSOPHY&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=V%20%C2%B7%20THE%20CREED&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=development%20philosophy&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
 </p>
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### 🎯
+ 🎯
 
-**Solve Problems**
+Solve Problems
 
 Build technology that has a real purpose.
 
@@ -529,9 +738,9 @@ Build technology that has a real purpose.
 
 <td align="center" width="25%">
 
-### ⚡
+ ⚡
 
-**Keep Learning**
+Keep Learning
 
 Always explore new technologies and ideas.
 
@@ -539,9 +748,9 @@ Always explore new technologies and ideas.
 
 <td align="center" width="25%">
 
-### 🧠
+ 🧠
 
-**Think Scalable**
+Think Scalable
 
 Design systems with growth in mind.
 
@@ -549,9 +758,9 @@ Design systems with growth in mind.
 
 <td align="center" width="25%">
 
-### 🚀
+🚀
 
-**Build & Ship**
+Build & Ship
 
 Turn concepts into working products.
 
@@ -560,47 +769,37 @@ Turn concepts into working products.
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
-</p>
-
-<!-- ═══════════════ EXPLORING ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VI%20%C2%B7%20CURRENTLY%20EXPLORING&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
-</p>
-
-<p align="center">
-
-`🤖 Machine Learning` &nbsp; `☁️ AWS` &nbsp; `🧠 AI Systems`
-
-`🏗️ Cloud Architecture` &nbsp; `📱 Advanced Android` &nbsp; `🔌 IoT`
-
+  <sub><b>CURRENTLY EXPLORING</b></sub><br><br>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-0A0A0A?style=for-the-badge&logoColor=C9A24B"/>
+  <br>
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-0A0A0A?style=for-the-badge&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/Advanced%20Android-0A0A0A?style=for-the-badge&logo=android&logoColor=C9A24B"/>
+  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=C9A24B"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ MAP ═══════════════ -->
+<!-- ═════════════════════════ VI · MAP ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VII%20%C2%B7%20FIND%20ME%20%E2%80%94%20CHAWKBAZAR&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=650&lines=%F0%9F%93%8D+Chawkbazar%2C+Chittagong+%28Chattogram%29%2C+Bangladesh;LAT+22.36%C2%B0+N+%C2%B7+LON+91.84%C2%B0+E;Port+city.+Old+streets.+New+ideas." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=VI%20%C2%B7%20THE%20COORDINATES&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=chawkbazar%20%C2%B7%20chattogram%20%C2%B7%20bangladesh&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.google.com/maps/search/?api=1&query=Chawkbazar+Chittagong+Bangladesh">
-    <img src="https://staticmap.openstreetmap.de/staticmap.php?center=22.3600,91.8400&zoom=14&size=900x420&maptype=mapnik&markers=22.3600,91.8400,red-pushpin" width="85%" alt="Map of Chawkbazar, Chittagong, Bangladesh"/>
+    <img src="media/chawkbazar-map.svg" width="92%" alt="Map of Chawkbazar, Chittagong, Bangladesh"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.google.com/maps/search/?api=1&query=Chawkbazar+Chittagong+Bangladesh">
-    <img src="https://img.shields.io/badge/Open%20in-Google%20Maps-C9A24B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0A0A"/>
+    <img src="https://img.shields.io/badge/Open%20in-Google%20Maps-C9A24B?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0A0A0A"/>
   </a>
   <a href="https://www.openstreetmap.org/search?query=Chawkbazar%20Chittagong">
-    <img src="https://img.shields.io/badge/Open%20in-OpenStreetMap-C9A24B?style=for-the-badge&logo=openstreetmap&logoColor=white&labelColor=0A0A0A"/>
+    <img src="https://img.shields.io/badge/Open%20in-OpenStreetMap-C9A24B?style=for-the-badge&logo=openstreetmap&logoColor=black&labelColor=0A0A0A"/>
   </a>
 </p>
 
@@ -608,33 +807,30 @@ Turn concepts into working products.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:C9A24B,100:0A0A0A&height=2" width="70%"/>
 </p>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ═════════════════════════ VII · CONNECT ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1a160d&height=80&text=VIII%20%C2%B7%20LET'S%20CONNECT&fontSize=24&fontColor=C9A24B&fontAlignY=50&animation=fadeIn" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a160d,100:000000&height=90&text=VII%20%C2%B7%20CORRESPONDENCE&fontSize=26&fontColor=C9A24B&fontAlignY=42&desc=let's%20connect&descSize=13&descColor=8A8372&descAlignY=72&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
 
 <a href="https://linkedin.com/in/abu-sayed-muhammed-hanif-15b689374/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-C9A24B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C9A24B?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A0A0A"/>
 </a>
 
 <a href="mailto:abusayed1952hanif@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-C9A24B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/Email-Contact-C9A24B?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0A0A0A"/>
 </a>
 
 <a href="https://github.com/asm-hanif">
-<img src="https://img.shields.io/badge/GitHub-Follow-C9A24B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-C9A24B?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A"/>
 </a>
 
 </p>
 
-<br>
-
 <p align="center">
 
-<sub>✦ Thanks for visiting my profile ✦</sub>
-
+<sub>✦ Thanks for visiting my profile ✦</sub><br>
 <sub>If you find something interesting here, consider ⭐ starring the repository.</sub>
 
 <br><br>
